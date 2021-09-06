@@ -1,4 +1,12 @@
 #!/usr/bin/env sh
+###
+ # @Author: 刘东升
+ # @Date: 2021-08-10 17:54:12
+ # @LastEditors: 刘东升
+ # @LastEditTime: 2021-09-06 17:30:25
+ # @Descripttion: 
+ # @version: 
+### 
 
 # 确保脚本抛出遇到的错误
 set -e
@@ -20,6 +28,7 @@ git commit -m 'deploy'
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:Firenzia/sakura-ui.git master:gh-pages
+git push -f git@github.com:DongshengLL/zgd-ui-pc.git master:gh-pages
+
 
 cd -

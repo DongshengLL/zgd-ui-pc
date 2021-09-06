@@ -25,6 +25,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c0e91f31-0514-474b-8575-62f08217d146" name="Default Changelist" comment="" />
@@ -32,11 +33,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630909050769</updated>
-      <workItem from="1630909052168" duration="324000" />
+      <workItem from="1630909052168" duration="1022000" />
     </task>
+    <task id="LOCAL-00001" summary="修改项目名称">
+      <created>1630910228817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1630910228818</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改项目名称" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改项目名称" />
   </component>
 </project>
