@@ -1,6 +1,6 @@
 {
     "name": "zgd-ui-pc",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "private": false,
     "main": "dist/sakura.umd.min.js",
     "description": "an UI framework based on Vue.js",
@@ -14,7 +14,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Firenzia/sakura-ui.git"
+        "url": "git+https://github.com/DongshengLL/zgd-ui-pc.git"
     },
     "keywords": [
         "UI",
@@ -23,9 +23,9 @@
     "author": "Firenzia",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Firenzia/sakura-ui/issues"
+        "url": "https://github.com/DongshengLL/zgd-ui-pc/issues"
     },
-    "homepage": "https://github.com/Firenzia/sakura-ui#readme",
+    "homepage": "https://github.com/DongshengLL/zgd-ui-pc#readme",
     "dependencies": {
         "vue": "^2.6.10",
         "vue-highlightjs": "^1.3.3"

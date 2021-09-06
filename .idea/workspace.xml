@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0e91f31-0514-474b-8575-62f08217d146" name="Default Changelist" comment="" />
+    <list default="true" id="c0e91f31-0514-474b-8575-62f08217d146" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630909050769</updated>
-      <workItem from="1630909052168" duration="1022000" />
+      <workItem from="1630909052168" duration="1644000" />
     </task>
     <task id="LOCAL-00001" summary="修改项目名称">
       <created>1630910228817</created>
@@ -42,7 +45,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630910228818</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="部署地址修改">
+      <created>1630920897877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630920897877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -50,6 +60,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改项目名称" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改项目名称" />
+    <MESSAGE value="部署地址修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="部署地址修改" />
   </component>
 </project>
