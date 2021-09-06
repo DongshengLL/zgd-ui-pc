@@ -1,6 +1,6 @@
 {
-    "name": "zgd-demo-ui",
-    "version": "0.0.7",
+    "name": "zgd-ui-pc",
+    "version": "0.0.1",
     "private": false,
     "main": "dist/sakura.umd.min.js",
     "description": "an UI framework based on Vue.js",
