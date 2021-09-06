@@ -1,16 +1,14 @@
 <!--
- * @Author: 刘东升
- * @Date: 2021-08-10 17:54:12
- * @LastEditors: 刘东升
- * @LastEditTime: 2021-09-06 17:46:20
+ * @Author: 刘东�? * @Date: 2021-08-10 17:54:12
+ * @LastEditors: 刘东�? * @LastEditTime: 2021-09-06 18:09:13
  * @Descripttion:
  * @version:
 -->
 
 ---
 
-## title: "安装"
-
+title: '安装'
+---
 # 安装
 
 ```

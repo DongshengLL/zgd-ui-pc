@@ -3,7 +3,7 @@
  # @Author: 刘东升
  # @Date: 2021-08-10 17:54:12
  # @LastEditors: 刘东升
- # @LastEditTime: 2021-09-06 17:30:25
+ # @LastEditTime: 2021-09-06 18:05:40
  # @Descripttion: 
  # @version: 
 ### 
@@ -22,7 +22,7 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m 'deploy'
+git commit -m 'change'
 
 # 如果发布到 https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
